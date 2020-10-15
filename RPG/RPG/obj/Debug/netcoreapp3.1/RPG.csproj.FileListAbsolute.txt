@@ -1,0 +1,26 @@
+C:\Users\drigtime\source\repos\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.exe
+C:\Users\drigtime\source\repos\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.deps.json
+C:\Users\drigtime\source\repos\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.json
+C:\Users\drigtime\source\repos\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.dev.json
+C:\Users\drigtime\source\repos\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.dll
+C:\Users\drigtime\source\repos\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\drigtime\source\repos\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfoInputs.cache
+C:\Users\drigtime\source\repos\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfo.cs
+C:\Users\drigtime\source\repos\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.csproj.CoreCompileInputs.cache
+C:\Users\drigtime\source\repos\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.dll
+C:\Users\drigtime\source\repos\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\drigtime\source\repos\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.genruntimeconfig.cache
+C:\Users\drigtime\source\repos\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.csprojAssemblyReference.cache
+C:\Users\NyzR\Desktop\COURS IUT\C#\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.csprojAssemblyReference.cache
+C:\Users\NyzR\Desktop\COURS IUT\C#\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfoInputs.cache
+C:\Users\NyzR\Desktop\COURS IUT\C#\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfo.cs
+C:\Users\NyzR\Desktop\COURS IUT\C#\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.csproj.CoreCompileInputs.cache
+C:\Users\NyzR\Desktop\COURS IUT\C#\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.dll
+C:\Users\NyzR\Desktop\COURS IUT\C#\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\NyzR\Desktop\COURS IUT\C#\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.exe
+C:\Users\NyzR\Desktop\COURS IUT\C#\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.deps.json
+C:\Users\NyzR\Desktop\COURS IUT\C#\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.json
+C:\Users\NyzR\Desktop\COURS IUT\C#\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.dev.json
+C:\Users\NyzR\Desktop\COURS IUT\C#\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.dll
+C:\Users\NyzR\Desktop\COURS IUT\C#\RPG\RPG\bin\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\NyzR\Desktop\COURS IUT\C#\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.genruntimeconfig.cache
