@@ -1,2 +1,2 @@
 # RPG
-RPG - TP scolaire iut LP WEB
+RPG - TP scolaire iut LP RGI WEB
